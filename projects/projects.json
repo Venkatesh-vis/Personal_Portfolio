@@ -1,0 +1,52 @@
+[
+  {
+    "name": "StreamMagic",
+    "desc": "Movies App built using React allowing users to browse and interact with movies, series and content.",
+    "image": "StreamMagic",
+    "category": "react",
+    "links": {
+      "view": "https://disney-hotstar-eta.vercel.app/",
+      "code": "https://github.com/Venkatesh-vis/Disney-Hotstar"
+    }
+  },
+  {
+    "name": "Weather Forecast",
+    "desc": "Developed a dynamic and user-friendly web application that provides real-time weather forecasts for various locations.",
+    "image": "weather",
+    "category": "react",
+    "links": {
+      "view": "https://weather-forecast-ten-woad.vercel.app/",
+      "code": "https://github.com/Venkatesh-vis/Weather_Forecast"
+    }
+  },
+  {
+    "name": "Quiz Game",
+    "desc": "Interactive and engaging way for users to test their knowledge. It serves as an educational tool or a fun way to challenge oneself with trivia.",
+    "image": "quiz",
+    "category": "react",
+    "links": {
+      "view": "https://quiz-app-five-mu.vercel.app/",
+      "code": "https://github.com/Venkatesh-vis/quizApp"
+    }
+  },
+  {
+    "name": "imdb",
+    "desc": "JavaScript project to display movie information on cards.Features allowing users to search for specific movies and access detailed information upon selection.",
+    "image": "imdb",
+    "category": "mern",
+    "links": {
+      "view": "https://venkatesh-vis.github.io/Imdb/",
+      "code": "https://github.com/Venkatesh-vis/Imdb"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+]
